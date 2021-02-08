@@ -1,0 +1,92 @@
+.se-page{
+	width: 100%;
+}
+.se-page .logo{
+	padding-top: 12px;
+	text-align: center;
+}
+.se-page .logo img{
+	width: 101px;
+	height: 31px;
+}
+.se-page .inputDiv{
+	margin: 12px 5%;
+}
+.page-all .page-content{
+	padding: 10px 17px;
+	border-top: 1px #f5f5f5 solid;
+}
+.page-all .page-content .title{
+	font-size: 19px;
+	padding: 2px 0;
+}
+.page-all .page-content .content{
+	margin: 2px 0;
+}
+.page-all .about .content img{
+	border-radius: 2px;
+	float: left;
+}
+.page-all .about .content .about-tell{
+	display: inline-block;
+	float: left;
+	width: 68%;
+	font-size: 15px;
+	line-height: 18px;
+	color: #555;
+	text-indent: 28px;
+	padding: 0 5px;
+	box-sizing: border-box;
+}
+.page-all  .content .tell{
+	display: inline-block;
+	font-size: 15px;
+	line-height: 18px;
+	color: #555;
+	text-indent: 28px;
+	padding: 0 5px;
+	box-sizing: border-box;
+}
+.page-all .page-content .from{
+	clear: both;
+	font-size: 14px;
+	color: #999;
+	line-height: 14px;
+	padding-top: 8px;
+}
+.page-all .page-content .from img,.page-all .from span {
+	vertical-align: middle;
+	padding-right: 3px;
+}
+.page-all .page-content{
+	border-bottom: 8px #f5f5f5 solid;
+}
+.page-all .happyday .content{
+	width: 100%;
+	overflow-x: auto;
+	overflow-y: hidden;
+}
+.page-all .happyday .content::-webkit-scrollbar {display:none}
+.page-all .img-list{
+	float: left;
+	height: 120px;
+	width: 1180px;
+}
+.page-all .img-list li{
+	padding: 0 5px;
+	display: inline-block;
+	float: left;
+	list-style: none;
+}
+.page-all .img-list li img{
+	border-radius: 3px;
+	height: 120px;
+}
+.page-all .next_play{
+	color: #666;
+	text-align: center;
+	height: 52px;
+	line-height: 52px;
+	font-size: 16px;
+	border-bottom: 8px #f5f5f5 solid;
+}
